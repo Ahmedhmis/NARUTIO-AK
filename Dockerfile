@@ -1,6 +1,7 @@
-#Repo Jmthon Clone
-RUN git clone https://github.com/JMTHON-AR/JM-THON.git /root/userbot
+FROM JMTHON-AR/JM-THON:alpine
 
+#clonning repo 
+RUN git clone https://github.com/JMTHON-AR/JM-THON.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
