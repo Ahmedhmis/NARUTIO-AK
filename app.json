@@ -25,7 +25,8 @@
     },
     "STRING_SESSION": {
       "description": "هـنا ضع كـود تيرمكس ",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "TG_BOT_USERNAME": {
       "description": " @ هنـا ضع معرف بوت التلي الخاص بك بدون ",
