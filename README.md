@@ -7,11 +7,14 @@
 
 ## شكـرا لكـم 
 
+  <img src="https://telegra.ph/file/aeb4bb31bb6fad83ca136.jpg">
 
 ## المطـورين 
 
-[jmthon source](https://t.me/jmthon)
+[jmthon source](https://t.me/MusicElkeatib)
 
-[MUHAMMAD](https://t.me/RR9R7)
+[- ♫︎𝗘𝗹𝗸𝗲𝗮𝘁-𝗶𝗯 ¹: 🇾🇪⃤](https://t.me/E_l_k_e_a_t_i_b)
 
-[JASEM](https://t.me/SBB_B)
+[𝐗 𝐄 𝐑 𝐎🏴‍☠️ːː◮](https://t.me/ZZXZ_X)
+
+[Omar Abo](https://t.me/BOT3mora)
