@@ -3,12 +3,12 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "jmthon-ar" ]]
+    if [[ $UPSTREAM_REPO == "NARUTIO" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0pNVEhPTi1BUi9KTS1USE9OL2FyY2hpdmUvbWFzdGVyLnppcA=" | base64 -d
-    elif [[ $UPSTREAM_REPO == "jmthon-ar" ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0FobWVkaG1pcy9OQVJVVElPLUFLX01LL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+    elif [[ $UPSTREAM_REPO == "NARUTIO" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0pNVEhPTi1BUi9KTS1USE9OL2FyY2hpdmUvbWFzdGVyLnppcA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0FobWVkaG1pcy9OQVJVVElPLUFLX01LL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $UPSTREAM_REPO =~ $regex ]]
     then
         if [[ $UPSTREAM_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${UPSTREAM_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0pNVEhPTi1BUi9KTS1USE9OL2FyY2hpdmUvbWFzdGVyLnppcA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0FobWVkaG1pcy9OQVJVVElPLUFLX01LL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     fi
 }
 

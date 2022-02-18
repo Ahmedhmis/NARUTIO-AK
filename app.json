@@ -61,12 +61,12 @@
     },
     "TZ": {
       "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Africa/Cairo",
+      "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "jmthon-ar",
+      "value": "NARUTIO",
       "required": false
     }
   },
